@@ -6,9 +6,7 @@ public class Hello {
 		esp();
 		
 	}
- public static void port() {
-	 System.out.println("Ola mundo");
- }
+ 
  
  public static void eng() {
 	 System.out.println("Hello World");
